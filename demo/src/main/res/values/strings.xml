@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Promise Demo</string>
+	<string name="dialog_okay">OK</string>
+	<string name="dialog_title_error">Error</string>
+	<string name="dialog_title_loading">Loading</string>
+	<string name="dialog_title_success">Success!</string>
+	<string name="dialog_sending">Sending your request&#8230;</string>
+	<string name="promise_signal_received">You have successfully received a Promise Response</string>
+</resources>
